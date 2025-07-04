@@ -1,2 +1,2 @@
-# daily-checklist
+# Daily-Checklist
 Daily Checklist Tracker
